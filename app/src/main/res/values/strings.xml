@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MultiLabelTextViewAnimation</string>
+    <string-array name="test">
+        <item>Knock knock.</item>
+        <item>Hello?</item>
+        <item>Who\’s there?</item>
+        <item>Let\'s go</item>
+        <item>Where?</item>
+        <item>Let\'s go</item>
+    </string-array>
+</resources>

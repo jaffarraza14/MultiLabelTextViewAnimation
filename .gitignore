@@ -83,3 +83,21 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+
+/daterangepicker/build/
+/MPChartLib-debug/build
+/daterangepicker
+/library-addition-debug/build
+/library-debug/build
+/multi_slider_lib/build
+/turbo-recyclerview-helper-release/build
+
